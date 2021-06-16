@@ -1,0 +1,92 @@
+{
+  "produtos": [
+    {
+      "id": 0,
+      "cod": 0,
+      "nome": "volante",
+      "entrada": 200,
+      "saida": 200,
+      "qtde": 418
+    },
+    {
+      "id": 1,
+      "cod": 1,
+      "nome": "Parafuso/roda",
+      "entrada": 10,
+      "saida": 12,
+      "qtde": 142
+    },
+    {
+      "id": 2,
+      "cod": 2,
+      "nome": "Calota",
+      "entrada": 40.5,
+      "saida": 45,
+      "qtde": 77
+    },
+    {
+      "id": 3,
+      "cod": 3,
+      "nome": "Rodas",
+      "entrada": 90,
+      "saida": 100,
+      "qtde": 123
+    },
+    {
+      "id": 4,
+      "cod": 4,
+      "nome": "Tapete",
+      "entrada": 15.5,
+      "saida": 15.8,
+      "qtde": 26
+    },
+    {
+      "id": 5,
+      "cod": 5,
+      "nome": "Pneu",
+      "entrada": 160,
+      "saida": 200,
+      "qtde": 22
+    },
+    {
+      "id": "6",
+      "cod": 6,
+      "nome": "Escape",
+      "entrada": 150.9,
+      "saida": 165,
+      "qtde": 10
+    },
+    {
+      "id": "7",
+      "cod": 8,
+      "nome": "Filtro",
+      "entrada": 10,
+      "saida": 20,
+      "qtde": 1000
+    },
+    {
+      "id": "8",
+      "cod": 1022,
+      "nome": "Banco",
+      "entrada": 400,
+      "saida": 500,
+      "qtde": 10
+    },
+    {
+      "id": "9",
+      "cod": 1234,
+      "nome": "Porca",
+      "entrada": 14,
+      "saida": 15,
+      "qtde": 10
+    },
+    {
+      "id": "10",
+      "cod": 1234568,
+      "nome": "qualquer",
+      "entrada": 2000,
+      "saida": 2555,
+      "qtde": 100
+    }
+  ]
+}

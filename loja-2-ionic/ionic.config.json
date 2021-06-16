@@ -1,0 +1,8 @@
+{
+  "name": "loja-2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "eabd70f4"
+}
